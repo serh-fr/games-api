@@ -1,0 +1,17 @@
+.previewBlock {
+  width: 23%;
+}
+
+.previewImageBlock {
+  cursor: pointer;
+}
+
+.previewImage {
+  width: 100%;
+  display: block;
+}
+
+.previewTitle {
+  margin-top: 20px;
+  text-align: center;
+}

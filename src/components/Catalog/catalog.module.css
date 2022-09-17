@@ -1,0 +1,17 @@
+.gamesList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 20px;
+  margin-top: 20px;
+}
+
+.loadMoreBlock {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.selectsBlock {
+  display: flex;
+  column-gap: 20px;
+}
